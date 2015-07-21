@@ -1,5 +1,5 @@
 @startuml
-' http://plantuml.sourceforge.net/activity2.html
+' http://plantuml.com/classes.html
 title Task
 class Task {
     title
