@@ -16,5 +16,7 @@
 from unittest import TestCase
 
 
-class TestTask(TestCase):
-    pass
+class TaskTest(TestCase):
+
+    def test_sth(self):
+        pass

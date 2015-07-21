@@ -1,0 +1,12 @@
+@startuml
+' http://plantuml.sourceforge.net/activity2.html
+title Task
+class Task {
+    title
+    tags
+    due
+    notes
+}
+
+@enduml
+
